@@ -1,0 +1,11 @@
+{
+  "verified_on": "2026-11-14",
+  "url": "https://rp-titer.vercel.app",
+  "deployment_id": "dpl_2PHML88AAHPvin3dXdMJ79t5km2f",
+  "runtime_source_commit": "794a481",
+  "browser_checks": "Passed full anonymous production desktop/mobile suite",
+  "download_sha256": "e6ab5daa22cde28a77b6c5425d533a046d967f353f8a3586d3f89bf815454bf5",
+  "download_integrity": "Published ZIP byte-identical to packaged source; credentials and key stores absent",
+  "hosting": "Static browser-local workbench; private API runs in downloaded Node service",
+  "git_integration": "Vercel GitHub connection rejected; production published using CLI. Automatic Git deployment is not configured."
+}
