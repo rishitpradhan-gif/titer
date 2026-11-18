@@ -1,5 +1,9 @@
 # Titer
 
+[![Titer — working application preview](https://raw.githubusercontent.com/rishitpradhan-gif/rishitpradhan-gif/main/assets/titer-workbench.png)](https://rp-titer.vercel.app)
+
+**[Open application ↗](https://rp-titer.vercel.app)** · [Portfolio case study](https://rishitpradhan.com/projects/titer/)
+
 An assay endpoint comparison workbench and private keyed API. Titer normalizes concentration units, preserves censored bounds, and checks declared experimental context before calculating reference-relative concentration ratios.
 
 **Public workbench:** https://rp-titer.vercel.app
